@@ -1,0 +1,23 @@
+body{
+	font: 16px arial, helvetica, sans-serif;
+}
+
+#principal { width:1500px; }
+#menu { background: #848484}
+#conteudo{ background:#F2F2F2}
+
+
+
+.img1{
+	width: 250px;
+	display: inline-block;
+}
+ .container {
+            text-align: center;	background: #585858; /* Centraliza o conteúdo do contêiner horizontalmente */
+        }
+        a{
+        	color: 	#4b556a;
+        	text-decoration: none;
+        	font-weight: bold;
+        	padding: 5px;
+        }
